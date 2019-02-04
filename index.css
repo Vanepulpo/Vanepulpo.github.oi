@@ -1,0 +1,47 @@
+*{ 
+	font-family: 'Josefin Sans', sans-serif;
+	
+}
+
+body {
+	background-image: url(https://media.istockphoto.com/illustrations/bouquet-of-pansies-hand-draw-watercolor-illustration-illustration-id670848104);
+	background-size: cover; 
+}
+
+h1, h2 {
+	font-family: 'Rajdhani', sans-serif;
+} 
+
+#header {
+	background-color: black; 
+	color: white;
+	border-bottom: 20px solid navy;
+
+}
+
+.imagen1 {
+	width:230px;
+	height:180px;
+}
+
+.p2{
+
+	border: 5px solid green;
+	padding-top: 20px;
+	margin-top:0;
+	background-color: yellow;
+	
+ 
+}
+
+#form {
+	border: 5px solid navy;
+	padding-top: 20px;
+	margin-top:0
+}
+h2 {
+	margin-bottom:0;
+	color:green; 
+	
+}
+
